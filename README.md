@@ -25,6 +25,13 @@ This project implements a simple GUI-based Secure File Encryption/Decryption Too
    cd Encrypt_Decrypt
    ```
 
+## Tags
+- Cyber Security Project
+- Python
+- Encryption_Decryption tool 
+
+
+
 ## Usage
 
 1. **Use the GUI to select a file and choose whether to encrypt or decrypt it.**
